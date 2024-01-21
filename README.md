@@ -6,7 +6,7 @@ If you are confused with the syntax or description, see the example. I am sure t
 :mag_right: "EASY + IMPORTANT + MOST USED" examples.
 Last but not least, I have added Leetcode Qns also which can be easily solved using STLs
 
-### :memo:Different ways of using priority_queue (i.e. heap) :mount_fuji:
+### :memo:Different ways of using priority_queue (i.e. heap) :mount_fuji:-
 
 - Default declarations
 ```c++
